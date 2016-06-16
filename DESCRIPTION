@@ -1,5 +1,5 @@
 Package: IlluminaHumanMethylationEPICmanifest
-Version: 0.3.1
+Version: 0.5.0
 Title: Manifest for Illumina's EPIC methylation arrays
 Description: A manifest package for Illumina's EPIC methylation arrays.
 Authors@R: c(person(c("Kasper", "Daniel"), "Hansen", role = c("cre", "aut"),

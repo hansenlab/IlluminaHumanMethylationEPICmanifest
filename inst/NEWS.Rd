@@ -3,7 +3,8 @@
 \encoding{UTF-8}
 
 
-\section{Version 0.3.1}{
+
+\section{Version 0.5.0}{
   \itemize{
     \item Added NEWS files, and changed biocViews.
   }
